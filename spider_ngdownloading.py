@@ -1,5 +1,6 @@
-# import requests
-# from bs4 import BeautifulSoup
+import requests
+from bs4 import BeautifulSoup
+# good job
 
 #找到正确且准确的母网页
 url_parent = 'http://www.ngchina.com.cn/travel/photo_galleries/4802.html'
